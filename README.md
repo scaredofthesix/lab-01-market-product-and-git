@@ -87,7 +87,7 @@ This and all other lab assignments will simulate real-life engineering practices
    3. Click `Create label`.
 
    </details>
-    <!-- TODO ask students to provide a proof of the setup -->
+
 6. <details> <summary>(Optional) Protect your <code>main</code> branch (click to expand).</summary>
 
    In the repo -> `Settings` -> `Code and automation` -> `Add branch ruleset`:
