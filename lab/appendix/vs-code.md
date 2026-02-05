@@ -54,6 +54,10 @@ To open a terminal:
 
 - Press ```Ctrl+` ``` (```Cmd+` ``` on `macOS`)
 
+To close a terminal:
+
+- Press ```Ctrl+` ``` (```Cmd+` ``` on `macOS`)
+
 ## `Source Control`
 
 Interact with `git` via `VS Code` UI.
